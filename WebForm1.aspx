@@ -93,7 +93,7 @@
 
 
                 <span>
-                    <asp:Panel ID="Panel1" Width="800" Height="400" ScrollBars="Auto" runat="server">
+                    <asp:Panel ID="Panel1" Width="800" BackColor="LightGray" Visible="false" Height="400" ScrollBars="Auto" runat="server">
                         <asp:GridView ID="GridView1" runat="server"></asp:GridView>
                     </asp:Panel>
                 </span>
