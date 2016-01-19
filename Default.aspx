@@ -132,7 +132,7 @@
 				<li><a href="blog.html">Blog</a></li>
 			</ul>
 	</div>
-                        <div class="search-box">
+                        <%--<div class="search-box">
 							<div id="sb-search" class="sb-search">
 								<form>
 									<input class="sb-search-input" placeholder="Enter your search term..." type="searchb" name="searchb" id="searchb">
@@ -140,7 +140,7 @@
 									<span class="sb-icon-search"> </span>
 								</form>
 							</div>
-						</div>
+						</div>--%>
 						<!----search-scripts---->
 						<%--<script src="js/modernizr.custom.js"></script>
 						<script src="js/classie.js"></script>--%>

@@ -1,0 +1,7 @@
+﻿<Request>
+    <#Request>
+        <AgentID>#AgentID</AgentID>
+        <Password>#Password</Password>
+        #Options
+    </#Request>
+</Request>
